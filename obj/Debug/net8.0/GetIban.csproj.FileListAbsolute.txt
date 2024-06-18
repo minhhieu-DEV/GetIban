@@ -1,0 +1,14 @@
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Debug/net8.0/GetIban
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Debug/net8.0/GetIban.deps.json
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Debug/net8.0/GetIban.runtimeconfig.json
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Debug/net8.0/GetIban.dll
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Debug/net8.0/GetIban.pdb
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/GetIban.GeneratedMSBuildEditorConfig.editorconfig
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/GetIban.AssemblyInfoInputs.cache
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/GetIban.AssemblyInfo.cs
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/GetIban.csproj.CoreCompileInputs.cache
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/GetIban.dll
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/refint/GetIban.dll
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/GetIban.pdb
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/GetIban.genruntimeconfig.cache
+/media/minhhieu45/HOME/nodejs/GetIban/obj/Debug/net8.0/ref/GetIban.dll

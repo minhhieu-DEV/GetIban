@@ -1,0 +1,5 @@
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Release/net8.0/publish/GetIban
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Release/net8.0/publish/GetIban.dll
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Release/net8.0/publish/GetIban.deps.json
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Release/net8.0/publish/GetIban.runtimeconfig.json
+/media/minhhieu45/HOME/nodejs/GetIban/bin/Release/net8.0/publish/GetIban.pdb
